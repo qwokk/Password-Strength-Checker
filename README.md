@@ -30,4 +30,4 @@
 #### 2.Откройте файл index.html в любом современном браузере.
 
 # Результат 
-#### 1)
+####  <img width="507" height="702" alt="Image" src="https://github.com/user-attachments/assets/5589093d-7a0f-4642-a7dd-434cb51c1785" />
